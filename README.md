@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: **Blog Platform (Mini Medium Clone)**  
 - 🌱 I’m currently learning: **MERN Stack + DevOps**  
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, Tailwind, MySQL**  
-- 📫 Reach me at: **[rohitkrthakur@gmail.com](mailto:rohitkrthakur@gmail.com)**  
+- 📫 Reach me at: **[rohitsr8887@gmail.com](mailto:rohitsr8887@gmail.com@gmail.com)**  
 - 🌐 Portfolio: **[rohitkrthakur.netlify.app](https://rohitkrthakur.netlify.app)** *(update if different)*  
 - ⚡ Fun fact: **My max typing speed is 76 WPM 😎**
 
