@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate FullStack Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on: **Blog Platform (Mini Medium Clone)**  
 - 🌱 I’m currently learning: **MERN Stack + DevOps**  
