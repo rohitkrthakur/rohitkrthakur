@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hello World! I'm Rohit Kumar Thakur
 </h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Specialist | DevOps Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Exploring DevOps Tools</h3>
 
 <p align="center">
   <a href="https://rohit12.netlify.app" target="_blank">
