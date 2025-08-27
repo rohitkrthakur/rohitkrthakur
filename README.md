@@ -24,7 +24,7 @@
 - 🌱 Currently learning: **Advanced MERN stack & DevOps practices**
 - 👯 Looking to collaborate on: **Open source projects**
 - 💬 Ask me about: **Web Development, JavaScript, or how to stay productive**
-- ⚡ Fun fact: **I can type 76 WPM while drinking chai ☕**
+- ⚡ Fun fact: ** type speed 86 WPM 😎☕**
 
 ---
 
